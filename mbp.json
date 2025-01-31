@@ -1,0 +1,27 @@
+{
+    "name": "TheGrapeJuice IPA Library",
+    "identifier": "thegrapejuice.ipa",
+    "subtitle": "GrapeJuice's Exclusive IPA Library",
+    "sourceURL": "raw.githubusercontent.com/TheGrapeJuice/movieboxpro-esign-library/refs/heads/main/mbp.json",
+    "tintColor": "FFC300",
+    "featuredApps": [
+        "Ed0ardo.CyPwnStore"
+    ],
+    "apps": [
+        {
+            "name": "MovieBoxPro",
+            "bundleIdentifier": "com.xd.mpb31",
+            "developerName": "TheGrapeJuice",
+            "version": "14.3",
+            "versionDate": "2025-01-30",
+            "downloadURL": "movieboxpro.app/ipa",
+            "localizedDescription": "Latest version of MovieBoxPro",
+            "iconURL": "https://raw.githubusercontent.com/TheGrapeJuice/movieboxpro-esign-library/refs/heads/main/mbp.png",
+            "tintColor": "FFC300",
+            "size": 8388608,
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/TheGrapeJuice/movieboxpro-esign-library/refs/heads/main/mbp.png"
+            ]
+        }
+    ]
+}
