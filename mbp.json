@@ -22,7 +22,7 @@
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/TheGrapeJuice/movieboxpro-esign-library/refs/heads/main/mbp.png"
             ]
-        }
+        },
         {
             "name": "MovieBoxPro",
             "bundleIdentifier": "com.xd.mpb31",
